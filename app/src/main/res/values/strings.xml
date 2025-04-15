@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Cyberpunk30Days</string>
+    <string name="top_app_bar">Cyberpunk 2077</string>
+    <string name="copyright_note">Pictures by cyberpunk.fandom.com</string>
+
+    <string name="name_1">Day 1: Balance Your Build</string>
+    <string name="description_1">Invest in a mix of Reflexes (combat), Intelligence (hacking), and Cool (stealth) early. Avoid over-specializing until Day 10.</string>
+
+    <string name="name_2">Day 2: Breach Protocol Pays Off</string>
+    <string name="description_2">Master the Breach Protocol minigame early for free eddies, reduced vendor prices, and bonus components.</string>
+
+    <string name="name_3">Day 3: Stealth is Golden</string>
+    <string name="description_3">Use silenced weapons and non-lethal takedowns; some quests reward sparing enemies.</string>
+
+    <string name="name_4">Day 4: Never Stop Moving</string>
+    <string name="description_4">Slide, dash, and use cover during firefights—staying still makes you an easy target.</string>
+
+    <string name="name_5">Day 5: Loot EVERYTHING</string>
+    <string name="description_5">Search alleys, dumpsters, and rooftops for Iconic gear and rare crafting specs.</string>
+
+    <string name="name_6">Day 6: Scan Relentlessly</string>
+    <string name="description_6">Tag enemies through walls and spot hidden access points or environmental hazards.</string>
+
+    <string name="name_7">Day 7: Upgrade Cyberware Early</string>
+    <string name="description_7">Visit Ripperdocs often. Prioritize Mantis Blades or Kerenzikov for combat agility.</string>
+
+    <string name="name_8">Day 8: Grind Street Cred</string>
+    <string name="description_8">Complete gigs and NCPD alerts to unlock better gear, cyberware, and story options.</string>
+
+    <string name="name_9">Day 9: Dialogue Matters</string>
+    <string name="description_9">Save before conversations—choices can unlock unique rewards or alter endings.</string>
+
+    <string name="name_10">Day 10: Side Gigs > Main Story</string>
+    <string name="description_10">Focus on Regina’s gigs for free cyberware or Dakota’s for vehicle discounts.</string>
+
+    <string name="name_11">Day 11: Iconic Weapons Grow</string>
+    <string name="description_11">Upgrade Iconic weapons at Crafting stations—they scale with your level.</string>
+
+    <string name="name_12">Day 12: Dismantle, Don’t Sell</string>
+    <string name="description_12">Prioritize dismantling gear for crafting components (except paintings—see Day 13).</string>
+
+    <string name="name_13">Day 13: Exploit the Art Glitch</string>
+    <string name="description_13">Buy the &quot;$4,000 painting&quot; from vendors and resell it infinitely for quick eddies.</string>
+
+    <string name="name_14">Day 14: Armadillo Mods</string>
+    <string name="description_14">Craft Armadillo armor mods (Technical Ability) to drastically boost survivability.</string>
+
+    <string name="name_15">Day 15: Invest in a Vehicle</string>
+    <string name="description_15">Buy the Kusanagi CT-3X bike early for speed and agility in tight spaces.</string>
+
+    <string name="name_16">Day 16: Quickhack Combos</string>
+    <string name="description_16">Pair &quot;Short Circuit&quot; (stun) with &quot;Suicide&quot; or &quot;Cyberpsychosis&quot; for crowd control.</string>
+
+    <string name="name_17">Day 17: Study Boss Patterns</string>
+    <string name="description_17">Learn boss tells (e.g., use EMP grenades against Oda) to counter attacks.</string>
+
+    <string name="name_18">Day 18: Netrunning Dominance</string>
+    <string name="description_18">Max Intelligence and Breach Protocol to hack enemies through cameras.</string>
+
+    <string name="name_19">Day 19: Distract Enemies</string>
+    <string name="description_19">Throw objects or use &quot;Whistle&quot; quickhacks to isolate targets silently.</string>
+
+    <string name="name_20">Day 20: Non-Lethal Takedowns</string>
+    <string name="description_20">Equip Target Analysis optic mod to farm Street Cred without killing.</string>
+
+    <string name="name_21">Day 21: Night City Never Sleeps</string>
+    <string name="description_21">Some missions (like &quot;Down on the Street&quot;) change based on time of day.</string>
+
+    <string name="name_22">Day 22: Manual Save Often</string>
+    <string name="description_22">Save before missions, risky jumps, or dialogue choices to avoid regrets.</string>
+
+    <string name="name_23">Day 23: Photo Mode Recon</string>
+    <string name="description_23">Use Photo Mode to scout areas for enemies, loot, or alternate paths.</string>
+
+    <string name="name_24">Day 24: Fashion Over Function</string>
+    <string name="description_24">Mix armor mods with stylish clothing—some outfits have hidden perks.</string>
+
+    <string name="name_25">Day 25: Grenade Spam</string>
+    <string name="description_25">Craft grenades (Technical Ability) to clear rooms or flush out snipers.</string>
+
+    <string name="name_26">Day 26: Verticality is Key</string>
+    <string name="description_26">Use double-jump or air-dash cyberware to access rooftops and secrets.</string>
+
+    <string name="name_27">Day 27: Max Out a Skill Tree</string>
+    <string name="description_27">Specialize in one playstyle (e.g., Blades for 500% crit chance).</string>
+
+    <string name="name_28">Day 28: Pacifica Secrets</string>
+    <string name="description_28">Explore Pacifica’s abandoned mall and stadium post-quests for elite loot.</string>
+
+    <string name="name_29">Day 29: Respec Once</string>
+    <string name="description_29">Use the 100k-eddie Tabula E-Rasa to tweak your build for the endgame.</string>
+
+    <string name="name_30">Day 30: Embrace the Ending</string>
+    <string name="description_30">Save manually before the Point of No Return—your choices have lasting consequences.</string>
+</resources>
